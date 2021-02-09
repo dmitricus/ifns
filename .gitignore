@@ -1,0 +1,13 @@
+.idea/*
+db.sqlite3
+
+__pycache__/
+*.py[cod]
+
+local_settings.py
+local_settings_compose.py
+/.env
+/src/logs/
+*.log
+/helm/charts/*
+/helm/Chart.lock
